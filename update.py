@@ -12,7 +12,7 @@ html = f"""<!DOCTYPE html>
 </head>
 
 <body>
-    <h1>https://github.com/gfdgd-xi-org/wine-runner-websize-net 运行库列表（来自 Wine 运行器）</h1>
+    <h1>.net framework 运行库列表（来自 Wine 运行器）</h1>
     <p>点击下方链接下载</p>
     <h3>推荐在 Wine 运行器内安装</h3>
     <h3>更新时间：{datetime.datetime.now().year}年{datetime.datetime.now().month}月{datetime.datetime.now().day}日 {datetime.datetime.now().hour}:{datetime.datetime.now().minute}:{datetime.datetime.now().second}</h3>
